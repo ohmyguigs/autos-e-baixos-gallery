@@ -1,4 +1,4 @@
-# Forked from [Virtual Art Gallery](https://clementcariou.github.io/virtual-art-gallery/build)
+# Forked from [Virtual Art Gallery](https://github.com/ClementCariou/virtual-art-gallery)
 
 [![screenshot](ArtGallery.png "App screenshot")](https://clementcariou.github.io/virtual-art-gallery/build)
 
