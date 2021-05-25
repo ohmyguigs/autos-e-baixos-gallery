@@ -1,7 +1,5 @@
 # Forked from [Virtual Art Gallery](https://github.com/ClementCariou/virtual-art-gallery)
 
-[![screenshot](ArtGallery.png "App screenshot")](https://clementcariou.github.io/virtual-art-gallery/build)
-
 ## Description
 
 This project simulates an art gallery in your browser using [REGL](https://github.com/regl-project/regl).
