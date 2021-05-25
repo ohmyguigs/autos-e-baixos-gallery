@@ -6,8 +6,8 @@
 		"start": "budo src/index.js",
 		"build": "browserify -p tinyify src/index.js | htmlify > build.html",
 		"genList": "node images/generateList.js",
-		"prestart": "npm run genList",
-		"prebuild": "npm run genList"
+		"prestart": "yarn genList",
+		"prebuild": "yarn genList"
 	},
 	"license": "MIT",
 	"dependencies": {
